@@ -1,6 +1,6 @@
 # Solidity Code Libraries
 ---
-    This is a diary of smart contracts I wrote at varioud times that were either for learning purposes, were too brief and/or individual to fit in a solo repository.
+    This is a diary of smart contracts I wrote at various times that were either for learning purposes, were too brief and/or individual to fit in a solo repository.
 
 ## **Note** :
 * The code is in no particular order
