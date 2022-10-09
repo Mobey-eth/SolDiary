@@ -9,4 +9,4 @@ ___
 Feel free to reachout to my [E-mail](mailto:Chantler.aob@gmail.com "Mobey's Email address") for any questions or inquiries.
 
 ___
-** Code and contracts in this repository will be updated and/or maintained, _you're welcome to contribute_ **
+**Code and contracts in this repository will be updated and/or maintained, _you're welcome to contribute_ **
