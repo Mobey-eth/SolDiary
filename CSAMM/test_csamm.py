@@ -1,4 +1,3 @@
-from webbrowser import get
 from brownie import CSAMM, MobiCoin, NinaCoin, interface, accounts, web3
 import pytest
 
