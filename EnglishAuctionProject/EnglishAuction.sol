@@ -112,6 +112,7 @@ contract EnglishAuction {
         delete bids[msg.sender];
         payable(highestBidder).transfer(bal);
         isBidder[msg.sender] = false;
+        highestBidder= address(0);
 
         emit RevokedBid(msg.sender, bal, _tokenID);
     }

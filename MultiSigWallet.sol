@@ -29,7 +29,7 @@ contract MultiSigWallet {
         require(_owners.length > 0, "Must have atleast one owner!");
         require(
             _requiredVotes > 0 && _requiredVotes <= _owners.length,
-            "Invalid number of rquired votes!"
+            "Invalid number of required votes!"
         );
 
         requiredVotes = _requiredVotes;
